@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+transformers
+scikit-learn
+python-multipart
+requests
+textblob
+pdfplumber
+python-dotenv
+websockets
+pydantic
+PyMuPDF
+opencv-python
+mediapipe
+python-multipart
+
+
