@@ -53,6 +53,7 @@ project-root/
 
 ---
 
+Live Link-https://www.youtube.com/watch?v=LpiYCn9isEw
 ## ⚙️ Backend Installation
 
 **Requirements (in `backend/requirements.txt`):**
@@ -98,9 +99,6 @@ frontend/index.html
 
 ---
 
-## 🌐 Deployment Instructions
-
-### 🔥 Option 1: Deploy on [Render](https://render.com) (Recommended)
 
 #### Backend (FastAPI):
 
@@ -167,7 +165,7 @@ Built with ❤️ by \[Mahima Gupta]
 
 
 
-## 📃 License
+
 
 MIT License – free to use and modify.
 
